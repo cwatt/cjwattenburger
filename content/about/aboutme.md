@@ -89,7 +89,7 @@ My hobbies include experimenting with recipes in the kitchen, reading,  playing 
   </table>
 </div>
 
-Cat tax:
+TCAT and Merlin:
 
 <img src="tcat_merlin.jpg" align="left" alt="My cats, TCAT and Merlin" style="width:40%" HSPACE="25" VSPACE="10"/>
 
