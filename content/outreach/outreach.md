@@ -87,7 +87,7 @@ As an undergraduate at Western Washington University, I took an inter-disciplina
 
 #### Expanding Your Horizons
 
-[Expanding Your Horizons](https://www.eyh.cornell.edu/) is a program hosted by Cornell that's aimed towards introducing young girls to science by pairing them with a graduate student "buddy" and hosting fun science workshops to pique their interest in various fields. I've enjoyed spending a day each year buddying with a young woman and stoking her interest in STEM.
+[Expanding Your Horizons](https://www.eyh.cornell.edu/) is a program hosted by Cornell that's aimed towards introducing middle-school girls to science by pairing them with a graduate student "buddy" and hosting fun science workshops to pique their interest in various fields. I've enjoyed spending a day each year buddying with a student and stoking her interest in STEM.
 
 #### Diversity Preview Weekend
 
