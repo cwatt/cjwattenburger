@@ -91,8 +91,8 @@ As an undergraduate at Western Washington University, I took an inter-disciplina
 
 #### Diversity Preview Weekend
 
-[Diversity Preview Weekend](http://www.cornelldpw.org/) is a graduate-student led program that allows undergraduates from underrepresented minorities to get networking opportunities and help preparing for graduate school. My involvement has included volunteering at events and reviewing and advising participants' on their graduate school application materials.
+[Diversity Preview Weekend](http://www.cornelldpw.org/) is a graduate-student led program that helps undergraduates from underprivileged backgrounds learn about and prepare for graduate school. My involvement has included serving on advice panels, volunteering at events, and reviewing and discussing graduate school application materials with participants.
 
 #### Science Bound
 
-[Science Bound](http://www.sciencebound.iastate.edu/) is an initiative at Iowa State University that empower underrepresented minorities in Iowa to explore STEM degrees and careers. I organized and helped with a variety of microbiology workshops for ages ranging from elementary to high school students.
+[Science Bound](http://www.sciencebound.iastate.edu/) is an initiative at Iowa State University that empower underrepresented students in Iowa to explore STEM degrees and careers. I organized and lead a variety of microbiology workshops for ages ranging from elementary to high school students. This included a workshop to teach students about bacteria living on plant leaves, and a multi-workshop event to introduce high schoolers to careers in microbiology and various topics therein, such as microbiology in human health and the environment.
