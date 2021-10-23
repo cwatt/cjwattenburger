@@ -76,24 +76,25 @@ I did my MS at Iowa State University co-advised between the [Halverson](https://
 
 #### Internships at the Pacific Northwest National Laboratory
 
-I interned at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) each summer during my undergraduate years in [Dr. Vanessa Bailey's lab](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=5776). Here, I learned the basics of experimental design, research conduct, and various methods commonly used in microbial ecology. I worked on various projects, including comparing bacterial and fungal respiration in agricultural soils, developing a DNA extraction technique for individual soil aggregates, and the effect of gradual warming on soil community exo-metabolite production.
+I interned at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) in [Dr. Vanessa Bailey's lab](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=5776) each summer during my undergraduate years. I learned the basics of experimental design, research conduct, and various methods commonly used in microbial ecology thanks to Sarah Fansler, lab manager extraordinaire. I worked on various projects, including comparing bacterial and fungal respiration in agricultural soils, developing a DNA extraction technique for individual soil aggregates, and the effect of gradual warming on soil community exo-metabolite production.
 
 
-### Publications
+### Select Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=vDgzwVIAAAAJ&hl=en)
 
-1. **Wattenburger, C.J.**, Gutknecht, J., Zhang, Q., Brutnell, T., Hofmockel, K., Halverson, L., 2020. The rhizosphere and cropping system, but not arbuscular mycorrhizae, affect ammonia oxidizing archaea and bacteria abundances in two agricultural soils. Applied Soil Ecology 151, 103540. [doi:10.1016/j.apsoil.2020.103540](https://linkinghub.elsevier.com/retrieve/pii/S0929139319309606)
+1. Foxx AJ, Franco Meléndez KP, Hariharan J, Kozik AJ, **Wattenburger CJ**, Godoy-Vitorino F, Rivers AR, 2021. Advancing Equity and Inclusion in Microbiome Research and Training. mSystems [0:e01151-21.](https://journals.asm.org/doi/10.1128/mSystems.01151-21)
 
-1. **Wattenburger, C.J.**, Halverson, L.J., Hofmockel, K.S., 2019. Agricultural Management Affects Root-Associated Microbiome Recruitment Over Maize Development. Phytobiomes Journal 3, 260–272. [doi:10.1094/PBIOMES-03-19-0016-R](https://apsjournals.apsnet.org/doi/10.1094/PBIOMES-03-19-0016-R)
+1. **Wattenburger CJ**, Gutknecht J, Zhang Q, Brutnell T, Hofmockel K, Halverson L, 2020. The rhizosphere and cropping system, but not arbuscular mycorrhizae, affect ammonia oxidizing archaea and bacteria abundances in two agricultural soils. Applied Soil Ecology 151, 103540. [doi:10.1016/j.apsoil.2020.103540](https://linkinghub.elsevier.com/retrieve/pii/S0929139319309606)
 
-1. Karig, D.E., Mayers, C.G., **Wattenburger, C.J.**, Southon, J., 2020. CONTAMINATION OF RADIOCARBON ANALYSES OF PLANT SAMPLES BY FUNGAL HYPHAE. Radiocarbon 1–8. [doi:10.1017/RDC.2020.124](https://www.cambridge.org/core/journals/radiocarbon/article/contamination-of-radiocarbon-analyses-of-plant-samples-by-fungal-hyphae/3D6CDD77BECCA4B4D8227A3E298D9F70)
+1. **Wattenburger CJ**, Halverson LJ, Hofmockel KS, 2019. Agricultural Management Affects Root-Associated Microbiome Recruitment Over Maize Development. Phytobiomes Journal 3, 260–272. [doi:10.1094/PBIOMES-03-19-0016-R](https://apsjournals.apsnet.org/doi/10.1094/PBIOMES-03-19-0016-R)
 
 
 ### Talks & Posters
 
 #### Talks
 
+1. **Land use and resource amendment impact in situ bacterial growth responses in soils**, Ecological Society of America, Virtual, Aug 2021
 1. **Predicting microbial life history traits from their growth dynamics in soil**, Cornell Soil and Crop Sciences seminar, Cornell University, April 2020
 1. **The root-associated microbiome and agricultural nitrogen use efficiency**, Master's exit seminar, Iowa State University, Nov 2017
 1. **Spatio-temporal dynamics of root-associated prokaryotic communities in two contrasting agroecosystems**, Iowa State University Interdepartmental Microbiology Program Retreat, Iowa State University, Oct 2017

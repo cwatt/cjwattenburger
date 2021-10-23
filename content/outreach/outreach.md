@@ -55,7 +55,7 @@ subtitle = ""
 
 I helped the Buckley lab create and man a microbiome-themed booth for the [USA Science & Engineering Festival](https://usasciencefestival.org/) in 2018. The booth featured live microscopy of protists from termite guts and freshwater algae, free cardboard microscopes for home use, and a microbiome puzzle game.
 
-Check out this [blog post](https://blogs.cornell.edu/best/2018/10/31/explaining-science-to-kids-builds-vital-career-skills/) that I co-wrote with Janani Hariharan where we reflect on lessons learned from this event.
+Check out this [blog post](https://blogs.cornell.edu/best/2018/10/31/explaining-science-to-kids-builds-vital-career-skills/) that I co-wrote with [Janani Hariharan](https://jananihariharan.com/) where we reflect on lessons learned from this event.
 
 #### Whiterock Conservency Bioblitz
 
@@ -74,13 +74,13 @@ As part of the Microbiology Graduate Student Organization at Iowa State Universi
   <figcaption>Me, teaching children about bacterial physiology using craft supplies.</figcaption>
 </figure>
 
-#### Science Art: "Soil Breaths"
+#### Science Art: "Soil Breathes"
 
 As an undergraduate at Western Washington University, I took an inter-disciplinary art and ecology course. I partnered with two art students to create a piece that communicated a scientific concept to its viewers. We made casts of our own faces and used the mold to create clay and soil masks. The casts represent how soils breath carbon dioxide out (just like us) as part of the global carbon cycle. The art was displayed in the Western Gallery at Western Washington University, Bellingham, WA in 2014.
 
 <figure>
   <img src="soil_breaths.jpg" alt="Soil art." style="width:50%" HSPACE="20" VSPACE="10"/>
-  <figcaption>"Soil Breaths" By Bonita Robins, Cassandra Wattenburger, and Cecelia Hanford</figcaption>
+  <figcaption>"Soil Breathes" By Bonita Robins, Cassandra Wattenburger, and Cecelia Hanford</figcaption>
 </figure>
 
 ### Diversity, equity, and inclusion
