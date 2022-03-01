@@ -85,6 +85,10 @@ As an undergraduate at Western Washington University, I took an inter-disciplina
 
 ### Diversity, equity, and inclusion
 
+#### Intergroup Dialogue Project
+
+The [Intergroup Dialogue Project](https://idp.cornell.edu/) at Cornell aims to teach skills that promote human connection, recognition of social identities and power structures within society, and methods of communication that bridge social differences. I am a Fellow with IDP and facilitate workshops for graduate students, post docs, and staff at Cornell to help teach these skills.
+
 #### Expanding Your Horizons
 
 [Expanding Your Horizons](https://www.eyh.cornell.edu/) is a program hosted by Cornell that's aimed towards introducing middle-school girls to science by pairing them with a graduate student "buddy" and hosting fun science workshops to pique their interest in various fields. I've enjoyed spending a day each year buddying with a student and stoking her interest in STEM.
