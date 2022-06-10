@@ -38,6 +38,6 @@ superuser: true
 title: Cassandra Wattenburger
 ---
 
-I'm Cassi, a PhD candidate in the Soil Science program at Cornell University. I work in the {{< staticref "http://blogs.cornell.edu/buckley/" "newtab" >}}Buckley lab{{< /staticref >}} where I'm researching the role of microbial life history traits in the soil carbon cycle. I use next generation sequencing and bioinformatics to see the unseen. I'm broadly interested in the role of microbial communities in soil and plant health.
+I'm Cassi (she/her), a PhD candidate in the Soil Science program at Cornell University. I work in the {{< staticref "http://blogs.cornell.edu/buckley/" "newtab" >}}Buckley lab{{< /staticref >}} where I'm researching the role of microbial life history traits in the soil carbon cycle. I use next generation sequencing and bioinformatics to see the unseen. I'm broadly interested in the role of microbial communities in soil and plant health.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CJWattenburger_resume_030122.pdf" "newtab" >}}resume{{< /staticref >}} or {{< staticref "media/CJWattenburger_cv_030122.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Wattenburger_resume_061022.pdf" "newtab" >}}resume{{< /staticref >}} or {{< staticref "media/Wattenburger_cv_061022.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -91,11 +91,11 @@ The [Intergroup Dialogue Project](https://idp.cornell.edu/) at Cornell aims to t
 
 #### Expanding Your Horizons
 
-[Expanding Your Horizons](https://www.eyh.cornell.edu/) is a program hosted by Cornell that's aimed towards introducing middle-school girls to science by pairing them with a graduate student "buddy" and hosting fun science workshops to pique their interest in various fields. I've enjoyed spending a day each year buddying with a student and stoking her interest in STEM.
+[Expanding Your Horizons](https://www.eyh.cornell.edu/) is a program hosted by Cornell that introduces middle-school girls to science by pairing them with a graduate student "buddy" and hosting fun science workshops to pique their interest in various fields. I've enjoyed spending a day each year buddying with a student and stoking her interest in STEM.
 
 #### Diversity Preview Weekend
 
-[Diversity Preview Weekend](http://www.cornelldpw.org/) is a graduate-student led program that helps undergraduates from underprivileged backgrounds learn about and prepare for graduate school. My involvement has included serving on advice panels, volunteering at events, and reviewing and discussing graduate school application materials with participants.
+[Diversity Preview Weekend](http://www.cornelldpw.org/) is a graduate-student led program that helps underrepresented students learn about and prepare for graduate school. My involvement has included serving on advice panels, volunteering at events, and reviewing and discussing graduate school application materials with participants.
 
 #### Science Bound
 

@@ -51,7 +51,7 @@ subtitle = ""
 
 I grew up in Eastern Washington, surrounded by wheat fields and apple orchards. My grandpa owned a small fertilizer business, and when I was young he would take me on trips to check on his customers' fields. Those experiences taught me an early appreciation for agriculture, soils, and plants. I got my research start through summer internships at the Pacific Northwest National Laboratory, which inspired me to pursue a career in science. I'm currently working on my PhD in Soil Science at Cornell. Over time I've picked up programming and data science skills which excite me as much as the soils and microorganisms that lead me to them.
 
-My hobbies include experimenting in the kitchen, reading,  playing tabletop games with friends, and taking my spoiled cats on walks outside. I go on iNaturalist hikes with my partner to catalog any and all of the plants, mushrooms, and animals that we can find.
+My main hobbies include experimenting in the kitchen, reading,  playing DnD with friends, and taking my spoiled cats on walks. My husband and I often go on iNaturalist hikes to catalog any and all of the plants, mushrooms, and animals that we can find.
 
 <style type="text/css" media="screen">
 .inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
@@ -88,8 +88,3 @@ My hobbies include experimenting in the kitchen, reading,  playing tabletop game
     </tr>
   </table>
 </div>
-
-My spoiled boys, TCAT and Merlin:
-
-<img src="tcat_merlin.jpg" align="left" alt="My cats, TCAT and Merlin" style="width:40%" HSPACE="25" VSPACE="10"/>
-
