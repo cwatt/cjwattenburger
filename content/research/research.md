@@ -94,6 +94,7 @@ I interned at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/)
 
 #### Talks
 
+1. **Bacterial growth and death dynamics during litter decomposition indicate shifts in life history strategy**  NEMPET22, Blue Mountain Lake, NY, June 2022
 1. **Land use and resource amendment impact in situ bacterial growth responses in soils**, Ecological Society of America, Virtual, Aug 2021
 1. **Predicting microbial life history traits from their growth dynamics in soil**, Cornell Soil and Crop Sciences seminar, Cornell University, April 2020
 1. **The root-associated microbiome and agricultural nitrogen use efficiency**, Master's exit seminar, Iowa State University, Nov 2017
@@ -103,6 +104,7 @@ I interned at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/)
 
 #### Posters
 
+1. **Population dynamics of soil bacterial communities during litter decomposition**, ISME18, Lousanne, Switzerland, Aug. 2022
 1. **Comparing in-situ, individual bacterial growth rates in cropped and successional soils using a 16S rRNA internal standard**, DOE GPS Meeting, Virtual, Feb 2021 {{< icon name="download" pack="fas" >}} {{< staticref "media/Wattenburger_Cassandra_Cornell.pdf" "newtab" >}}poster pdf{{< /staticref >}}
 1. **In contrasting cropping systems, root-associated prokaryotic and fungal communities exhibit distinct shifts at different maize developmental stages**, Multi-omics for Microbiomes Conference, Richland, WA, Aug 2017 {{< icon name="download" pack="fas" >}} {{< staticref "media/Multiomics_2017_poster_final.pdf" "newtab" >}}poster pdf{{< /staticref >}}
 1. **Arbuscular mycorrhizae alter soil inorganic and plant nitrogen but have little effect on ammonia oxidizing community abundance in two agricultural soils**, Ecological Society of America Conference, Portland, OR, Aug 2017 {{< icon name="download" pack="fas" >}} {{< staticref "media/ESA_2017_poster_final.pdf" "newtab" >}}poster pdf{{< /staticref >}}

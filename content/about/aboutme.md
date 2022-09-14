@@ -49,9 +49,9 @@ subtitle = ""
 
 # About me
 
-I grew up in Eastern Washington, surrounded by wheat fields and apple orchards. My grandpa owned a small fertilizer business, and when I was young he would take me on trips to check on his customers' fields. Those experiences taught me an early appreciation for agriculture, soils, and plants. I got my research start through summer internships at the Pacific Northwest National Laboratory, which inspired me to pursue a career in science. I'm currently working on my PhD in Soil Science at Cornell. Over time I've picked up programming and data science skills which excite me as much as the soils and microorganisms that lead me to them.
+I grew up in Eastern Washington, surrounded by wheat fields and apple orchards. My grandpa owned a small fertilizer business and when I was young he would take me on trips to check on his customers' fields with him. Those experiences taught me an early appreciation for agriculture, soils, and plants. I got my research start through summer internships at the Pacific Northwest National Laboratory, which inspired me to pursue a career in science. I'm currently working on my PhD in Soil Science at Cornell. Over time I've developed programming and data science skills which excite me as much as the soils and microorganisms that lead me to them.
 
-My main hobbies include experimenting in the kitchen, reading,  playing DnD with friends, and taking my spoiled cats on walks. My husband and I often go on iNaturalist hikes to catalog any and all of the plants, mushrooms, and animals that we can find.
+My main hobbies include experimenting in the kitchen, reading,  playing roleplaying games with friends, and taking my spoiled cats on walks. My husband and I often go on iNaturalist hikes to catalog any and all of the plants, mushrooms, and animals that we can find.
 
 <style type="text/css" media="screen">
 .inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
