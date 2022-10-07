@@ -104,7 +104,7 @@ I interned at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/)
 
 #### Posters
 
-1. **Population dynamics of soil bacterial communities during litter decomposition**, ISME18, Lousanne, Switzerland, Aug. 2022
+1. **Population dynamics of soil bacterial communities during litter decomposition**, ISME18, Lousanne, Switzerland, Aug. 2022 {{< icon name="download" pack="fas" >}} {{< staticref "media/ISME18_poster_final.pdf" "newtab" >}}poster pdf{{< /staticref >}}
 1. **Comparing in-situ, individual bacterial growth rates in cropped and successional soils using a 16S rRNA internal standard**, DOE GPS Meeting, Virtual, Feb 2021 {{< icon name="download" pack="fas" >}} {{< staticref "media/Wattenburger_Cassandra_Cornell.pdf" "newtab" >}}poster pdf{{< /staticref >}}
 1. **In contrasting cropping systems, root-associated prokaryotic and fungal communities exhibit distinct shifts at different maize developmental stages**, Multi-omics for Microbiomes Conference, Richland, WA, Aug 2017 {{< icon name="download" pack="fas" >}} {{< staticref "media/Multiomics_2017_poster_final.pdf" "newtab" >}}poster pdf{{< /staticref >}}
 1. **Arbuscular mycorrhizae alter soil inorganic and plant nitrogen but have little effect on ammonia oxidizing community abundance in two agricultural soils**, Ecological Society of America Conference, Portland, OR, Aug 2017 {{< icon name="download" pack="fas" >}} {{< staticref "media/ESA_2017_poster_final.pdf" "newtab" >}}poster pdf{{< /staticref >}}
