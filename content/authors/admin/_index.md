@@ -16,15 +16,12 @@ interests:
 - Data science
 - Bioinformatics
 organizations:
-- name: PhD Candidate @ Cornell University
-role: sher/her
+- name: PhD Candidate @ Cornell
+role: she/her
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/CJWattenburger
 - icon: graduation-cap
   icon_pack: fas65  
   link: https://scholar.google.com/citations?user=vDgzwVIAAAAJ&hl=en
