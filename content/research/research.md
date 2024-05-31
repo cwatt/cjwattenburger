@@ -52,27 +52,27 @@ subtitle = ""
 ### Research interests
 
 * Microbial ecology 🦠
-* Soil and plant health 🌾
-* Genomics and metagenomics 🧬
+* Soils and plants 🌾
+* Genomics 🧬
 * Data science 💻
 
-### Projects
+### Academic Research
 
-<img src="microcosms_crop.jpg" align="right" alt="Soil microcosms." style="width:40%" HSPACE="25" VSPACE="10"/>
+#### PhD: Measuring *in-situ* bacterial growth/death to understand soil carbon cycling
 
-#### PhD: In-situ bacterial growth rates and soil C cycling
+Watch my exit seminar [here](https://www.youtube.com/watch?v=0sN2BtTGmww&list=FLViexQIG-lgbwcKNEjMNgEw&index=2&ab_channel=CornellSIPS) (or below)!
 
-For my PhD research in the Buckley lab at Cornell, I'm measuring in-situ bacterial growth in soils for individual taxa. Bacterial growth is closely tied with bacterial metabolism, and drives organic matter decomposition and, by extension, the soil carbon cycle. I'm using this data to predict microbial traits from growth patterns and explore how microbial community growth dynamics impact C cycling in soils.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0sN2BtTGmww?si=QGjFzjCHHY-Dw3Cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br/>
+For my PhD research in the [Buckley lab](https://blogs.cornell.edu/buckley/) at Cornell, I measured in-situ bacterial growth and death in soils for individual taxa. Bacterial growth is closely tied with metabolism, which drives organic matter decomposition and, by extension, the soil carbon (C) cycle. Dead microbes make up up to 80% of persistent C in most soils, so we were also interested in death. I used this data to predict microbial traits from growth and death patterns and to explore how microbial community dynamics impact C cycling in soils.
 
 #### MS: Impacts of agricultural management on rhizosphere microbial communities
 
 <img src="marsden2.png" align="left" alt="Marsden fieldsite." style="width:35%" HSPACE="20" VSPACE="10"/>
 
-I did my MS at Iowa State University co-advised between the [Halverson](https://www.plantpath.iastate.edu/people/larry-halverson) and [Hofmockel](http://kirstenhofmockel.org/) labs. There, I took advantage of the [Marsden long-term rotation site](https://www.cals.iastate.edu/inrc/marsden-long-term-rotation-study) (see left)  to investigate how agricultural management effects maize root-associated microbial communities, with a particular emphasis on taxa important for nitrogen acquisition.
+I did my MS at Iowa State University co-advised between the [Halverson](https://www.plantpath.iastate.edu/people/larry-halverson) and [Hofmockel](http://kirstenhofmockel.org/) labs. There, I took advantage of the [Marsden long-term rotation site](https://www.cals.iastate.edu/inrc/marsden-long-term-rotation-study) (see left)  to investigate how agricultural management effects maize root-associated microbial communities, with a particular emphasis on taxa important for nitrogen cycling.
 
-<br/>
+</br>
 
 #### Internships at the Pacific Northwest National Laboratory
 
@@ -83,28 +83,10 @@ I interned at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/)
 
 [Google Scholar](https://scholar.google.com/citations?user=vDgzwVIAAAAJ&hl=en)
 
+1. **Wattenburger, C.J.** and Buckley, D.H., 2023. Land use alters bacterial growth dynamics in soil. Environmental Microbiology 25: 3239–3254. [doi:10.1111/1462-2920.16514](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16514)
+
 1. Foxx AJ, Franco Meléndez KP, Hariharan J, Kozik AJ, **Wattenburger CJ**, Godoy-Vitorino F, Rivers AR, 2021. Advancing Equity and Inclusion in Microbiome Research and Training. mSystems [0:e01151-21.](https://journals.asm.org/doi/10.1128/mSystems.01151-21)
 
 1. **Wattenburger CJ**, Gutknecht J, Zhang Q, Brutnell T, Hofmockel K, Halverson L, 2020. The rhizosphere and cropping system, but not arbuscular mycorrhizae, affect ammonia oxidizing archaea and bacteria abundances in two agricultural soils. Applied Soil Ecology 151, 103540. [doi:10.1016/j.apsoil.2020.103540](https://linkinghub.elsevier.com/retrieve/pii/S0929139319309606)
 
 1. **Wattenburger CJ**, Halverson LJ, Hofmockel KS, 2019. Agricultural Management Affects Root-Associated Microbiome Recruitment Over Maize Development. Phytobiomes Journal 3, 260–272. [doi:10.1094/PBIOMES-03-19-0016-R](https://apsjournals.apsnet.org/doi/10.1094/PBIOMES-03-19-0016-R)
-
-
-### Talks & Posters
-
-#### Talks
-
-1. **Bacterial growth and death dynamics during litter decomposition indicate shifts in life history strategy**  NEMPET22, Blue Mountain Lake, NY, June 2022
-1. **Land use and resource amendment impact in situ bacterial growth responses in soils**, Ecological Society of America, Virtual, Aug 2021
-1. **Predicting microbial life history traits from their growth dynamics in soil**, Cornell Soil and Crop Sciences seminar, Cornell University, April 2020
-1. **The root-associated microbiome and agricultural nitrogen use efficiency**, Master's exit seminar, Iowa State University, Nov 2017
-1. **Spatio-temporal dynamics of root-associated prokaryotic communities in two contrasting agroecosystems**, Iowa State University Interdepartmental Microbiology Program Retreat, Iowa State University, Oct 2017
-1. **Studying individual soil aggregates as discrete habitats for microbial communities**, SULI symposium, Richland, WA, Aug 2012
-1. **Revisiting fungal-to-bacterial activity ratios in soils ten years later**, SULI symposium, Richland, WA, Aug 2011
-
-#### Posters
-
-1. **Population dynamics of soil bacterial communities during litter decomposition**, ISME18, Lousanne, Switzerland, Aug. 2022 {{< icon name="download" pack="fas" >}} {{< staticref "media/ISME18_poster_final.pdf" "newtab" >}}poster pdf{{< /staticref >}}
-1. **Comparing in-situ, individual bacterial growth rates in cropped and successional soils using a 16S rRNA internal standard**, DOE GPS Meeting, Virtual, Feb 2021 {{< icon name="download" pack="fas" >}} {{< staticref "media/Wattenburger_Cassandra_Cornell.pdf" "newtab" >}}poster pdf{{< /staticref >}}
-1. **In contrasting cropping systems, root-associated prokaryotic and fungal communities exhibit distinct shifts at different maize developmental stages**, Multi-omics for Microbiomes Conference, Richland, WA, Aug 2017 {{< icon name="download" pack="fas" >}} {{< staticref "media/Multiomics_2017_poster_final.pdf" "newtab" >}}poster pdf{{< /staticref >}}
-1. **Arbuscular mycorrhizae alter soil inorganic and plant nitrogen but have little effect on ammonia oxidizing community abundance in two agricultural soils**, Ecological Society of America Conference, Portland, OR, Aug 2017 {{< icon name="download" pack="fas" >}} {{< staticref "media/ESA_2017_poster_final.pdf" "newtab" >}}poster pdf{{< /staticref >}}

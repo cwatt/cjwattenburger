@@ -55,7 +55,7 @@ subtitle = ""
 
 I helped the Buckley lab create and man a microbiome-themed booth for the [USA Science & Engineering Festival](https://usasciencefestival.org/) in 2018. The booth featured live microscopy of protists from termite guts and freshwater algae, free cardboard microscopes for home use, and a microbiome puzzle game.
 
-Check out this [blog post](https://blogs.cornell.edu/best/2018/10/31/explaining-science-to-kids-builds-vital-career-skills/) that I co-wrote with [Janani Hariharan](https://jananihariharan.com/) where we reflect on lessons learned from this event.
+Check out this [blog post](https://blogs.cornell.edu/best/2018/10/31/explaining-science-to-kids-builds-vital-career-skills/) that I co-wrote where we reflect on lessons learned from this event.
 
 #### Whiterock Conservency Bioblitz
 

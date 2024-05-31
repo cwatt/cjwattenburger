@@ -49,12 +49,16 @@ subtitle = ""
 
 # Publications
 
-#### Peer-reviewed manuscripts
+#### Selected peer-reviewed manuscripts
 
-1. **Wattenburger, C.J.**, Gutknecht, J., Zhang, Q., Brutnell, T., Hofmockel, K., Halverson, L., 2020. The rhizosphere and cropping system, but not arbuscular mycorrhizae, affect ammonia oxidizing archaea and bacteria abundances in two agricultural soils. Applied Soil Ecology 151, 103540. [doi:10.1016/j.apsoil.2020.103540](https://linkinghub.elsevier.com/retrieve/pii/S0929139319309606)
+(Google Scholar)[https://scholar.google.com/citations?user=vDgzwVIAAAAJ&hl=en]
 
-1. **Wattenburger, C.J.**, Halverson, L.J., Hofmockel, K.S., 2019. Agricultural Management Affects Root-Associated Microbiome Recruitment Over Maize Development. Phytobiomes Journal 3, 260–272. [doi:10.1094/PBIOMES-03-19-0016-R](https://apsjournals.apsnet.org/doi/10.1094/PBIOMES-03-19-0016-R)
+1. **Wattenburger, C.J.** and Buckley, D.H. (2023) Land use alters bacterial growth dynamics in soil. Environmental Microbiology 25: 3239–3254. [doi:10.1111/1462-2920.16514](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16514)
 
-1. Karig, D.E., Mayers, C.G., **Wattenburger, C.J.**, Southon, J., 2020. CONTAMINATION OF RADIOCARBON ANALYSES OF PLANT SAMPLES BY FUNGAL HYPHAE. Radiocarbon 1–8. [doi:10.1017/RDC.2020.124](https://www.cambridge.org/core/journals/radiocarbon/article/contamination-of-radiocarbon-analyses-of-plant-samples-by-fungal-hyphae/3D6CDD77BECCA4B4D8227A3E298D9F70)
+1. Foxx, A.J., Franco Meléndez, K.P., Hariharan, J., Kozik, A.J., **Wattenburger, C.J.**, Godoy-Vitorino, F., and Rivers, A.R. (2021) Advancing Equity and Inclusion in Microbiome Research and Training. mSystems 0: e01151-21. [doi:10.1128/mSystems.01151-21](https://journals.asm.org/doi/10.1128/msystems.01151-21)
+
+1. **Wattenburger, C.J.**, Gutknecht, J., Zhang, Q., Brutnell, T., Hofmockel, K., Halverson, L. (2020) The rhizosphere and cropping system, but not arbuscular mycorrhizae, affect ammonia oxidizing archaea and bacteria abundances in two agricultural soils. Applied Soil Ecology 151, 103540. [doi:10.1016/j.apsoil.2020.103540](https://linkinghub.elsevier.com/retrieve/pii/S0929139319309606)
+
+1. **Wattenburger, C.J.**, Halverson, L.J., Hofmockel, K.S. (2019) Agricultural Management Affects Root-Associated Microbiome Recruitment Over Maize Development. Phytobiomes Journal 3, 260–272. [doi:10.1094/PBIOMES-03-19-0016-R](https://apsjournals.apsnet.org/doi/10.1094/PBIOMES-03-19-0016-R)
 
 
