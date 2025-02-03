@@ -51,6 +51,8 @@ subtitle = ""
 
 ### Science communication
 
+Trust is vitally important to science acceptance. I try to build trust and interest through face-to-face interactions and by translating scientific concepts into formats that anyone can understand.
+
 #### USA Science Festival
 
 I helped the Buckley lab create and man a microbiome-themed booth for the [USA Science & Engineering Festival](https://usasciencefestival.org/) in 2018. The booth featured live microscopy of protists from termite guts and freshwater algae, free cardboard microscopes for home use, and a microbiome puzzle game.
@@ -85,6 +87,8 @@ As an undergraduate at Western Washington University, I took an inter-disciplina
 
 ### Diversity, equity, and inclusion
 
+A diverse scientific workforce will always be a key component of healthy, innovative research programs.
+
 #### Intergroup Dialogue Project
 
 The [Intergroup Dialogue Project](https://idp.cornell.edu/) at Cornell aims to teach skills that promote human connection, recognition of social identities and power structures within society, and methods of communication that bridge social differences. I am a Fellow with IDP and facilitate workshops for graduate students, post docs, and staff at Cornell to help teach these skills.
@@ -99,4 +103,4 @@ The [Intergroup Dialogue Project](https://idp.cornell.edu/) at Cornell aims to t
 
 #### Science Bound
 
-[Science Bound](http://www.sciencebound.iastate.edu/) is an initiative at Iowa State University that empower underrepresented students in Iowa to explore STEM degrees and careers. I organized and lead a variety of microbiology workshops for ages ranging from elementary to high school students. This included a workshop to teach students about bacteria living on plant leaves, and a multi-workshop event to introduce high schoolers to careers in microbiology and various topics therein, such as microbiology in human health and the environment.
+[Science Bound](http://www.sciencebound.iastate.edu/) is an initiative at Iowa State University that empower underrepresented students in Iowa to explore STEM degrees and careers. I organized and lead a variety of microbiology workshops for grade-school students. This included a workshop to teach students about bacteria living on plant leaves, and a multi-workshop event to introduce high schoolers to careers in microbiology and various topics therein, such as microbiology in human health and the environment.

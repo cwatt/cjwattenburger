@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Cornell University"
+org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Cassandra Wattenburger's personal website"
@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "cjwattenburger@gmail.com"
+#email = "cjwattenburger@gmail.com"
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "706 Bradfield Hall", city = "Ithaca", region = "NY", postcode = "14853", country = "United States", country_code = "US"}
+#address = {street = "706 Bradfield Hall", city = "Ithaca", region = "NY", postcode = "14853", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.4481", longitude = "-76.4757"}
+#coordinates = {latitude = "42.4481", longitude = "-76.4757"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

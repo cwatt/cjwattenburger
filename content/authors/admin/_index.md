@@ -16,7 +16,7 @@ interests:
 - Agriculture, soils, plants
 - Microbial ecology
 - Data science
-- Bioinformatics
+- Genomics
 organizations:
 - name: Genomics Data Scientist @ Bayer Crop Science
 role: she/her
@@ -34,6 +34,6 @@ superuser: true
 title: Cassandra Wattenburger
 ---
 
-I'm Cassi! I'm broadly interested in agriculture and the soils, plants, and microbes that make it happen. My main goal is to leverage my data science and communication skills in-tandem with my domain knowledge in ecology, plants, and soils to improve agricultural sustainability.
+I'm Cassi. I'm broadly interested in agriculture and the soils, plants, and microbes that make it happen. My broad goal is to leverage my research, data, and communication skills to improve agricultural sustainability.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CJW_resume_022023.pdf" "newtab" >}}resume{{< /staticref >}} or {{< staticref "media/CJW_CV_022023.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CJW_resume_013025.pdf" "newtab" >}}resume{{< /staticref >}}.
